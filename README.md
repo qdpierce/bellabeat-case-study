@@ -6,6 +6,12 @@ This case study analyzes Fitbit smart-device usage data to identify patterns in 
 
 The analysis examines activity patterns across 35 users and identifies differences between lower- and higher-activity users, with a focus on sedentary behavior, consistency, very-low-activity days, and periods of sustained activity.
 
+## Tableau Dashboard
+
+**[View the interactive Tableau dashboard](https://public.tableau.com/app/profile/quinnton.pierce/viz/BellabeatWellnessCompanyCaseStudy/Sheet1)**
+
+Explore the interactive visualizations and key findings from the Bellabeat case study.
+
 ## Business Objective
 
 The objective of this analysis is to identify trends in smart-device usage and determine how these insights could inform Bellabeat’s marketing strategy.
